@@ -1,6 +1,6 @@
 # Memory-Game
 
-A retro grid-based game in vanilla JavaScript, HTML and CSS
+**A retro grid-based game in vanilla JavaScript, HTML and CSS**
 
 ![Memory Game Image](https://user-images.githubusercontent.com/31548338/108730872-f8afbe80-7551-11eb-92f3-2a8beb23807f.PNG)
 
@@ -11,7 +11,7 @@ In this repo, I will be putting extra focus on setting Attributes in JavaScript.
 
 I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
 
-What inbuilt functions are we going to focus on?
+**What inbuilt functions are we going to focus on?**
 
 for loops
 
@@ -27,7 +27,7 @@ document.querySelector
 
 createElement
 
-Rules of Memory Game
+**Rules of Memory Game**
 
 You will start by flipping over one card
 If the next card you flip matches, a pop up alert notifies you and you get +1 to your score
