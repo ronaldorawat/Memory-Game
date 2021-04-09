@@ -2,6 +2,8 @@
 
 **A retro grid-based game in vanilla JavaScript, HTML and CSS**
 
+https://ronaldorawat.github.io/Memory-Game/
+
 ![Memory Game Image](https://user-images.githubusercontent.com/31548338/108730872-f8afbe80-7551-11eb-92f3-2a8beb23807f.PNG)
 
 
